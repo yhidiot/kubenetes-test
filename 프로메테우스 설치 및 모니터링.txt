@@ -1,0 +1,14 @@
+[프로메테우스 설치]
+https://hub.docker.com/r/prom/prometheus/
+
+docker pull prom/prometheus
+
+docker run -p 9090:9090 prom/prometheus
+
+참조 : https://hub.docker.com/r/prom/prometheus/
+
+모니터링 설정
+
+https://blog.naver.com/alice_k106/221090348538
+
+https://m.blog.naver.com/alice_k106/221210004452?referrerCode=1
